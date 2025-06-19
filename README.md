@@ -43,7 +43,7 @@ A full-stack web application for booking and managing rental properties, built w
 
 1. Clone the repository
 ```bash
-git clone [repository-url]
+git clone https://github.com/Mohd-Fazal-khan/StayFinder
 
 1) Backend
 cd backend

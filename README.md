@@ -1,6 +1,15 @@
 # StayFinder - Property Rental Platform
-
 A full-stack web application for booking and managing rental properties, built with React, Node.js, and MongoDB.
+
+<img width="1920" height="929" alt="Screenshot (137)" src="https://github.com/user-attachments/assets/0204f06e-0b9b-4d3f-aef2-f29c29fb2722" />
+<img width="1920" height="909" alt="Screenshot (138)" src="https://github.com/user-attachments/assets/268e8469-d41f-4a4e-917a-403165b26eae" />
+<img width="1920" height="821" alt="Screenshot (139)" src="https://github.com/user-attachments/assets/ec3b6ea8-ff9c-49f8-b68f-94ebb1a96550" />
+<img width="1900" height="697" alt="Screenshot (140)" src="https://github.com/user-attachments/assets/2adb799e-4e4c-4748-861d-4c9e99034efa" />
+<img width="1920" height="855" alt="Screenshot (141)" src="https://github.com/user-attachments/assets/40d940f7-1adc-426a-99c5-299efe09c649" />
+<img width="1903" height="884" alt="Screenshot (142)" src="https://github.com/user-attachments/assets/7a568c17-6e83-4d42-8fb4-aff5c755c2ec" />
+
+
+
 
 ## Features
 

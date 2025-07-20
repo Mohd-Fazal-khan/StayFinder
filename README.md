@@ -73,4 +73,9 @@ VITE_API_URL=http://localhost:5000
 3) Backend
    
    npm run dev
+   
+### Live Url
+``` https://front-sage-six.vercel.app/ ```
+
+
 
